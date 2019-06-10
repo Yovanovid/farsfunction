@@ -21,11 +21,6 @@ fars_read <- function(filename) {
   dplyr::tbl_df(data)
 }
 
-# Testthat 01
-
-#' @import Testthat
-expect_that(fars_read("productions.csv"), throws_error("file 'productions.csv' does not exist"))
-
 #'
 #' make_filename
 #'
@@ -126,7 +121,3 @@ fars_map_state <- function(state.num, year) {
     graphics::points(LONGITUD, LATITUDE, pch = 46)
   })
 }
-
-#' @import Testthat
-
-expect_that(fars_map_state(00,2015), throws_error("invalid STATE number: 0"))
