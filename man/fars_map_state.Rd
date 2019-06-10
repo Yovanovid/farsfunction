@@ -1,6 +1,6 @@
 \name{fars_map_state}
 \alias{fars_map_state...}
-\title{fars map state}
+\title{fars_map_state}
 
 \description{
 create a map of fars events from a specific state.
