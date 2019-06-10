@@ -1,4 +1,4 @@
-\name{fars_map_state}
+\name{fars map state}
 \alias{fars_map_state...}
 \docType{function.}
 \title{Example fars_map_state}
