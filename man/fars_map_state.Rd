@@ -1,6 +1,6 @@
 \name{fars_map_state}
 \alias{fars_map_state...}
-\docType{function}
+\docType{function.}
 \title{Example fars_map_state}
 \description{
 create a map of fars events from a specific state.
