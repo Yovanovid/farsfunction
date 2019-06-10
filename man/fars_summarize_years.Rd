@@ -1,4 +1,4 @@
-\name{fars_summarize_years}
+\name{fars summarize years}
 \alias{fars_summarize_years}
 \docType{function}
 \description{
