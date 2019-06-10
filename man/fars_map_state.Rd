@@ -4,8 +4,8 @@
 \description{
 create a map of fars events from a specific state.
 }
-\item{\code{state.num}{it is the number of the state}
-\item{\code{year}{The year}
+\item{\code{state.num}{it is the number of the state}}
+\item{\code{year}{The year}}
 \author{
 \packageAuthor{farsfunction}
 Maintainer: \packageMaintainer{farsfunction}
