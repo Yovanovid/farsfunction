@@ -1,6 +1,6 @@
 \name{fars_read}
 \alias{fars_read}
-\docType{function}
+\docType{function.}
 
 \description{
 This function has the aim to return the data or the formatted combination of texts and variables values that are comprised in any of this file "accident_%d.csv.bz2". This function lets you return a string only writing the year that the file is labeled.
