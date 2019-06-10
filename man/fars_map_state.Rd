@@ -1,11 +1,10 @@
-\name{fars_map_state.}
+\name{fars_map_state}
 \alias{fars_map_state...}
 \docType{function}
+\title{Example fars_map_state}
 \description{
 create a map of fars events from a specific state.
 }
-\item{\code{state.num}{it is the number of the state}}
-\item{\code{year}{The year}}
 \author{
 \packageAuthor{farsfunction}
 Maintainer: \packageMaintainer{farsfunction}
