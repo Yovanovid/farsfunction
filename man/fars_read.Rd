@@ -1,4 +1,4 @@
-\name{fars_read}
+\name{fars read}
 \alias{fars_read}
 \docType{function.}
 
