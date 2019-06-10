@@ -6,7 +6,7 @@
 This function lets us read a list of data.frames (fars events) by means of a list of years
 }
 
-\item{\code{years}{The years}
+\item{\code{years}{The years}}
 
 \author{
 \packageAuthor{farsfunction}
