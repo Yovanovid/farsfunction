@@ -4,7 +4,6 @@
 \description{
 This function can brings us an overall summary of fars, after we write the years that we want to analyze.
 }
-\item{\code{years}{The years}}
 \author{
 \packageAuthor{farsfunction}
 Maintainer: \packageMaintainer{farsfunction}
