@@ -1,4 +1,4 @@
-\name{farsfunction}
+\name{fars function.}
 \alias{farsfunction}
 \docType{package}
 \title{ Fars Functions}
